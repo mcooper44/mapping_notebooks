@@ -107,3 +107,4 @@ venv.bak/
 # general files
 *.csv
 *.json
+*.geojson
