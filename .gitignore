@@ -105,8 +105,5 @@ venv.bak/
 
 
 # general files
-*.csv
-*.json
-*.geojson
 
 kw_neighbourhoods.py
